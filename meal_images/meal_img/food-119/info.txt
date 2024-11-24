@@ -1,0 +1,2 @@
+food: Talay Phad Nam Prik Pao (Seafood Stir-fried in Chili Paste)
+category: Premium

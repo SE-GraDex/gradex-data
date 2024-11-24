@@ -1,0 +1,2 @@
+food: Som Tum Thai (Papaya Salad without Seafood)
+category: Basic

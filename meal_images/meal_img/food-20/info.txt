@@ -1,0 +1,2 @@
+food: Khao Man Gai (Hainanese Chicken Rice)
+category: Basic

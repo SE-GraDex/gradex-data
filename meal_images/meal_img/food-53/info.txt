@@ -1,0 +1,2 @@
+food: Yum Talay (Spicy Seafood Salad)
+category: Deluxe

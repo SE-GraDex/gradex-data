@@ -1,0 +1,2 @@
+food: Pla Tord Kamin (Turmeric Fried Fish)
+category: Basic

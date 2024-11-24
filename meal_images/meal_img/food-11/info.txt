@@ -1,0 +1,2 @@
+food: Kai Tod (Fried Chicken)
+category: Basic

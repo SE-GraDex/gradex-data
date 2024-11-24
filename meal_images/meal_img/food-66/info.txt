@@ -1,0 +1,2 @@
+food: Kuay Teow Talay (Seafood Noodle Soup)
+category: Deluxe
