@@ -8,7 +8,9 @@ This repository serves as a resource for the **GraDex** project, part of the **C
 
 ## Tools Used in Data Collection
 
-- **Text Generation**: Powered by **llama3.1 8b**.  
+- **Text Generation**:
+  - ChatGPT4o
+  - **llama3.1 8b**.  
 - **Image Downloader**: Utilized **bing-image-downloader** to collect sample images.  
 
 ## Purpose
