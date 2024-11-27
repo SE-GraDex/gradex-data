@@ -8,8 +8,8 @@ This repository serves as a resource for the **GraDex** project, part of the **C
 
 ## Tools Used in Data Collection
 
-- **Text Generation**:
-  - **ChatGPT4o**
+- **Text Generation**: we utilized these models: 
+  - [ChatGPT4](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/)
   - [llama3.1 8b](https://ai.meta.com/blog/meta-llama-3-1/)
 - **Image Downloader**:
   -  [bing-image-downloader](https://github.com/bes-dev/bing-image-downloader) to collect sample images.  
@@ -25,9 +25,9 @@ The provided data and modules are intended strictly for **educational purposes**
 
 ---
 
-## Disclaimer
+## ⚠️ Disclaimer
 
-- All resources in this repository are used under fair use principles for educational purposes only.  
+- All resources in this repository are used under fair use principles for **educational purposes only** .  
 - If you are a rights holder of any content used or referenced in this repository and have concerns, please contact us for resolution.  
 
 ---
