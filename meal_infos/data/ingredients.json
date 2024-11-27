@@ -1,0 +1,652 @@
+{
+    "0": {
+        "ingredient": "Bamboo Shoots",
+        "unit": "piece",
+        "price_per_unit": 10
+    },
+    "1": {
+        "ingredient": "Basil",
+        "unit": "bunch",
+        "price_per_unit": 25
+    },
+    "2": {
+        "ingredient": "Basil Leaves",
+        "unit": "gram",
+        "price_per_unit": 15
+    },
+    "3": {
+        "ingredient": "Bean Sprouts",
+        "unit": "gram",
+        "price_per_unit": 5
+    },
+    "4": {
+        "ingredient": "Beansprouts",
+        "unit": "gram",
+        "price_per_unit": 5
+    },
+    "5": {
+        "ingredient": "Bell Pepper",
+        "unit": "piece",
+        "price_per_unit": 18
+    },
+    "6": {
+        "ingredient": "Bell Peppers",
+        "unit": "piece",
+        "price_per_unit": 18
+    },
+    "7": {
+        "ingredient": "Black Pepper",
+        "unit": "gram",
+        "price_per_unit": 12
+    },
+    "8": {
+        "ingredient": "Bok Choy",
+        "unit": "bunch",
+        "price_per_unit": 30
+    },
+    "9": {
+        "ingredient": "Brown Sugar",
+        "unit": "gram",
+        "price_per_unit": 3
+    },
+    "10": {
+        "ingredient": "Cabbage",
+        "unit": "piece",
+        "price_per_unit": 20
+    },
+    "11": {
+        "ingredient": "Carrot",
+        "unit": "piece",
+        "price_per_unit": 8
+    },
+    "12": {
+        "ingredient": "Carrots",
+        "unit": "piece",
+        "price_per_unit": 8
+    },
+    "13": {
+        "ingredient": "Catfish",
+        "unit": "kg",
+        "price_per_unit": 180
+    },
+    "14": {
+        "ingredient": "Chicken",
+        "unit": "kg",
+        "price_per_unit": 120
+    },
+    "15": {
+        "ingredient": "Chicken Breast",
+        "unit": "piece",
+        "price_per_unit": 40
+    },
+    "16": {
+        "ingredient": "Chili",
+        "unit": "piece",
+        "price_per_unit": 2
+    },
+    "17": {
+        "ingredient": "Chili Paste",
+        "unit": "gram",
+        "price_per_unit": 10
+    },
+    "18": {
+        "ingredient": "Chili Pepper",
+        "unit": "piece",
+        "price_per_unit": 2
+    },
+    "19": {
+        "ingredient": "Chili Peppers",
+        "unit": "piece",
+        "price_per_unit": 2
+    },
+    "20": {
+        "ingredient": "Chilies",
+        "unit": "piece",
+        "price_per_unit": 2
+    },
+    "21": {
+        "ingredient": "Chives",
+        "unit": "bunch",
+        "price_per_unit": 15
+    },
+    "22": {
+        "ingredient": "Cilantro",
+        "unit": "bunch",
+        "price_per_unit": 20
+    },
+    "23": {
+        "ingredient": "Cinnamon Stick",
+        "unit": "stick",
+        "price_per_unit": 3
+    },
+    "24": {
+        "ingredient": "Coconut Milk",
+        "unit": "can",
+        "price_per_unit": 30
+    },
+    "25": {
+        "ingredient": "Coriander",
+        "unit": "bunch",
+        "price_per_unit": 20
+    },
+    "26": {
+        "ingredient": "Crab",
+        "unit": "kg",
+        "price_per_unit": 300
+    },
+    "27": {
+        "ingredient": "Crab Meat",
+        "unit": "gram",
+        "price_per_unit": 80
+    },
+    "28": {
+        "ingredient": "Cucumber",
+        "unit": "piece",
+        "price_per_unit": 12
+    },
+    "29": {
+        "ingredient": "Cumin",
+        "unit": "gram",
+        "price_per_unit": 10
+    },
+    "30": {
+        "ingredient": "Curry",
+        "unit": "gram",
+        "price_per_unit": 15
+    },
+    "31": {
+        "ingredient": "Curry Powder",
+        "unit": "gram",
+        "price_per_unit": 15
+    },
+    "32": {
+        "ingredient": "Duck",
+        "unit": "kg",
+        "price_per_unit": 250
+    },
+    "33": {
+        "ingredient": "Duck Breast",
+        "unit": "piece",
+        "price_per_unit": 100
+    },
+    "34": {
+        "ingredient": "Egg",
+        "unit": "piece",
+        "price_per_unit": 5
+    },
+    "35": {
+        "ingredient": "Eggs",
+        "unit": "piece",
+        "price_per_unit": 5
+    },
+    "36": {
+        "ingredient": "Fish",
+        "unit": "kg",
+        "price_per_unit": 150
+    },
+    "37": {
+        "ingredient": "Fish Ball",
+        "unit": "piece",
+        "price_per_unit": 1
+    },
+    "38": {
+        "ingredient": "Fish Balls",
+        "unit": "piece",
+        "price_per_unit": 1
+    },
+    "39": {
+        "ingredient": "Fish Sauce",
+        "unit": "liter",
+        "price_per_unit": 50
+    },
+    "40": {
+        "ingredient": "Fresh Basil Leaves",
+        "unit": "gram",
+        "price_per_unit": 15
+    },
+    "41": {
+        "ingredient": "Fresh Chilies",
+        "unit": "piece",
+        "price_per_unit": 2
+    },
+    "42": {
+        "ingredient": "Fresh Cilantro",
+        "unit": "bunch",
+        "price_per_unit": 20
+    },
+    "43": {
+        "ingredient": "Fresh Lemongrass",
+        "unit": "stalk",
+        "price_per_unit": 12
+    },
+    "44": {
+        "ingredient": "Fresh Shrimp",
+        "unit": "kg",
+        "price_per_unit": 250
+    },
+    "45": {
+        "ingredient": "Galangal",
+        "unit": "gram",
+        "price_per_unit": 20
+    },
+    "46": {
+        "ingredient": "Garlic",
+        "unit": "clove",
+        "price_per_unit": 3
+    },
+    "47": {
+        "ingredient": "Ginger",
+        "unit": "gram",
+        "price_per_unit": 20
+    },
+    "48": {
+        "ingredient": "Glass Noodle",
+        "unit": "gram",
+        "price_per_unit": 8
+    },
+    "49": {
+        "ingredient": "Glass Noodles",
+        "unit": "gram",
+        "price_per_unit": 8
+    },
+    "50": {
+        "ingredient": "Grass",
+        "unit": "bundle",
+        "price_per_unit": 15
+    },
+    "51": {
+        "ingredient": "Green Beans",
+        "unit": "gram",
+        "price_per_unit": 5
+    },
+    "52": {
+        "ingredient": "Green Chili",
+        "unit": "piece",
+        "price_per_unit": 2
+    },
+    "53": {
+        "ingredient": "Green Chili Peppers",
+        "unit": "piece",
+        "price_per_unit": 2
+    },
+    "54": {
+        "ingredient": "Green Onion",
+        "unit": "bunch",
+        "price_per_unit": 15
+    },
+    "55": {
+        "ingredient": "Green Onions",
+        "unit": "bunch",
+        "price_per_unit": 15
+    },
+    "56": {
+        "ingredient": "Green Peas",
+        "unit": "gram",
+        "price_per_unit": 10
+    },
+    "57": {
+        "ingredient": "Grilled Chicken",
+        "unit": "piece",
+        "price_per_unit": 50
+    },
+    "58": {
+        "ingredient": "Herbs",
+        "unit": "bunch",
+        "price_per_unit": 20
+    },
+    "59": {
+        "ingredient": "Kaffir Lime Leaves",
+        "unit": "bunch",
+        "price_per_unit": 15
+    },
+    "60": {
+        "ingredient": "Kai Look Kuey Goong",
+        "unit": "piece",
+        "price_per_unit": 150
+    },
+    "61": {
+        "ingredient": "Kale",
+        "unit": "bunch",
+        "price_per_unit": 30
+    },
+    "62": {
+        "ingredient": "Leeks",
+        "unit": "bunch",
+        "price_per_unit": 20
+    },
+    "63": {
+        "ingredient": "Lemon Grass",
+        "unit": "stalk",
+        "price_per_unit": 12
+    },
+    "64": {
+        "ingredient": "Lemongrass",
+        "unit": "stalk",
+        "price_per_unit": 12
+    },
+    "65": {
+        "ingredient": "Lime",
+        "unit": "piece",
+        "price_per_unit": 6
+    },
+    "66": {
+        "ingredient": "Lime Juice",
+        "unit": "ml",
+        "price_per_unit": 10
+    },
+    "67": {
+        "ingredient": "Lime Leaves",
+        "unit": "bunch",
+        "price_per_unit": 20
+    },
+    "68": {
+        "ingredient": "Mackerel",
+        "unit": "kg",
+        "price_per_unit": 140
+    },
+    "69": {
+        "ingredient": "Massaman Curry Paste",
+        "unit": "gram",
+        "price_per_unit": 15
+    },
+    "70": {
+        "ingredient": "Mince",
+        "unit": "gram",
+        "price_per_unit": 12
+    },
+    "71": {
+        "ingredient": "Mint",
+        "unit": "bunch",
+        "price_per_unit": 20
+    },
+    "72": {
+        "ingredient": "Mint Leaves",
+        "unit": "gram",
+        "price_per_unit": 15
+    },
+    "73": {
+        "ingredient": "Mixed Vegetables",
+        "unit": "gram",
+        "price_per_unit": 10
+    },
+    "74": {
+        "ingredient": "Morning Glory",
+        "unit": "bunch",
+        "price_per_unit": 25
+    },
+    "75": {
+        "ingredient": "Mushroom",
+        "unit": "gram",
+        "price_per_unit": 15
+    },
+    "76": {
+        "ingredient": "Mushrooms",
+        "unit": "gram",
+        "price_per_unit": 15
+    },
+    "77": {
+        "ingredient": "Mussels",
+        "unit": "kg",
+        "price_per_unit": 200
+    },
+    "78": {
+        "ingredient": "Noodles",
+        "unit": "gram",
+        "price_per_unit": 8
+    },
+    "79": {
+        "ingredient": "Onion",
+        "unit": "piece",
+        "price_per_unit": 10
+    },
+    "80": {
+        "ingredient": "Onions",
+        "unit": "piece",
+        "price_per_unit": 10
+    },
+    "81": {
+        "ingredient": "Palm Sugar",
+        "unit": "gram",
+        "price_per_unit": 12
+    },
+    "82": {
+        "ingredient": "Pandan Leaves",
+        "unit": "leaf",
+        "price_per_unit": 5
+    },
+    "83": {
+        "ingredient": "Papaya",
+        "unit": "piece",
+        "price_per_unit": 40
+    },
+    "84": {
+        "ingredient": "Paprika",
+        "unit": "gram",
+        "price_per_unit": 10
+    },
+    "85": {
+        "ingredient": "Parsley",
+        "unit": "bunch",
+        "price_per_unit": 15
+    },
+    "86": {
+        "ingredient": "Peanut Oil",
+        "unit": "liter",
+        "price_per_unit": 60
+    },
+    "87": {
+        "ingredient": "Peanuts",
+        "unit": "gram",
+        "price_per_unit": 15
+    },
+    "88": {
+        "ingredient": "Pepper",
+        "unit": "gram",
+        "price_per_unit": 10
+    },
+    "89": {
+        "ingredient": "Peppercorns",
+        "unit": "gram",
+        "price_per_unit": 12
+    },
+    "90": {
+        "ingredient": "Pork",
+        "unit": "kg",
+        "price_per_unit": 120
+    },
+    "91": {
+        "ingredient": "Pork Belly",
+        "unit": "kg",
+        "price_per_unit": 150
+    },
+    "92": {
+        "ingredient": "Potatoes",
+        "unit": "kg",
+        "price_per_unit": 35
+    },
+    "93": {
+        "ingredient": "Prawns",
+        "unit": "kg",
+        "price_per_unit": 250
+    },
+    "94": {
+        "ingredient": "Prik King Chili Pepper",
+        "unit": "piece",
+        "price_per_unit": 3
+    },
+    "95": {
+        "ingredient": "Red Chilies",
+        "unit": "piece",
+        "price_per_unit": 2
+    },
+    "96": {
+        "ingredient": "Rice",
+        "unit": "kg",
+        "price_per_unit": 40
+    },
+    "97": {
+        "ingredient": "Rice Noodles",
+        "unit": "gram",
+        "price_per_unit": 10
+    },
+    "98": {
+        "ingredient": "Rice Vinegar",
+        "unit": "liter",
+        "price_per_unit": 40
+    },
+    "99": {
+        "ingredient": "River Prawns",
+        "unit": "kg",
+        "price_per_unit": 250
+    },
+    "100": {
+        "ingredient": "Saltfree Soy Sauce",
+        "unit": "liter",
+        "price_per_unit": 50
+    },
+    "101": {
+        "ingredient": "Scallion",
+        "unit": "bunch",
+        "price_per_unit": 12
+    },
+    "102": {
+        "ingredient": "Scallions",
+        "unit": "bunch",
+        "price_per_unit": 12
+    },
+    "103": {
+        "ingredient": "Scallops",
+        "unit": "kg",
+        "price_per_unit": 500
+    },
+    "104": {
+        "ingredient": "Seabass",
+        "unit": "kg",
+        "price_per_unit": 250
+    },
+    "105": {
+        "ingredient": "Seafood",
+        "unit": "kg",
+        "price_per_unit": 300
+    },
+    "106": {
+        "ingredient": "Shallots",
+        "unit": "piece",
+        "price_per_unit": 5
+    },
+    "107": {
+        "ingredient": "Shrimp",
+        "unit": "kg",
+        "price_per_unit": 250
+    },
+    "108": {
+        "ingredient": "Snake Beans",
+        "unit": "gram",
+        "price_per_unit": 15
+    },
+    "109": {
+        "ingredient": "Snow Peas",
+        "unit": "gram",
+        "price_per_unit": 10
+    },
+    "110": {
+        "ingredient": "Soy Sauce",
+        "unit": "liter",
+        "price_per_unit": 40
+    },
+    "111": {
+        "ingredient": "Spices",
+        "unit": "gram",
+        "price_per_unit": 12
+    },
+    "112": {
+        "ingredient": "Squid",
+        "unit": "kg",
+        "price_per_unit": 220
+    },
+    "113": {
+        "ingredient": "Star Anise",
+        "unit": "gram",
+        "price_per_unit": 10
+    },
+    "114": {
+        "ingredient": "Talay Leaves",
+        "unit": "bunch",
+        "price_per_unit": 25
+    },
+    "115": {
+        "ingredient": "Tamarind",
+        "unit": "gram",
+        "price_per_unit": 15
+    },
+    "116": {
+        "ingredient": "Thai Basil",
+        "unit": "bunch",
+        "price_per_unit": 25
+    },
+    "117": {
+        "ingredient": "Thai Basil Leaves",
+        "unit": "gram",
+        "price_per_unit": 15
+    },
+    "118": {
+        "ingredient": "Thai Basil Oil",
+        "unit": "ml",
+        "price_per_unit": 40
+    },
+    "119": {
+        "ingredient": "Thai Black Pepper",
+        "unit": "gram",
+        "price_per_unit": 10
+    },
+    "120": {
+        "ingredient": "Thai Chili",
+        "unit": "piece",
+        "price_per_unit": 2
+    },
+    "121": {
+        "ingredient": "Thai Chilies",
+        "unit": "piece",
+        "price_per_unit": 2
+    },
+    "122": {
+        "ingredient": "Thai Red Chili Peppers",
+        "unit": "piece",
+        "price_per_unit": 3
+    },
+    "123": {
+        "ingredient": "Tofu",
+        "unit": "piece",
+        "price_per_unit": 20
+    },
+    "124": {
+        "ingredient": "Tomato",
+        "unit": "piece",
+        "price_per_unit": 8
+    },
+    "125": {
+        "ingredient": "Tomatoes",
+        "unit": "piece",
+        "price_per_unit": 8
+    },
+    "126": {
+        "ingredient": "Turmeric",
+        "unit": "gram",
+        "price_per_unit": 12
+    },
+    "127": {
+        "ingredient": "Vegetable Oil",
+        "unit": "liter",
+        "price_per_unit": 60
+    },
+    "128": {
+        "ingredient": "Vegetables",
+        "unit": "gram",
+        "price_per_unit": 8
+    },
+    "129": {
+        "ingredient": "Water Spinach",
+        "unit": "bunch",
+        "price_per_unit": 20
+    }
+}
